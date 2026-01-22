@@ -1,0 +1,8 @@
+# Ignora tudo
+*
+
+# Mas não ignora este arquivo .gitignore
+!.gitignore
+
+# Não ignora a pasta dist
+!/dist
