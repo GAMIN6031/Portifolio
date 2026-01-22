@@ -4,9 +4,9 @@
 # Não ignora o próprio .gitignore
 !.gitignore
 
-# Não ignora o index.html dentro da dist
+# Libera apenas o index.html dentro da dist
 !/dist/index.html
 
-# Não ignora a pasta assets dentro da dist
+# Libera apenas a pasta assets dentro da dist
 !/dist/assets/
 !/dist/assets/**
