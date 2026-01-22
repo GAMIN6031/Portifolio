@@ -4,9 +4,5 @@
 # Não ignora o próprio .gitignore
 !.gitignore
 
-# Libera apenas o index.html dentro da dist
-!/dist/index.html
-
-# Libera apenas a pasta assets dentro da dist
-!/dist/assets/
-!/dist/assets/**
+# Libera todos os arquivos dentro da pasta dist
+!/dist/**
