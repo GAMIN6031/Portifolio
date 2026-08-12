@@ -1,8 +1,0 @@
-# Ignora tudo
-*
-
-# Não ignora o próprio .gitignore
-!.gitignore
-
-# Libera todos os arquivos dentro da pasta dist
-!/dist/**
